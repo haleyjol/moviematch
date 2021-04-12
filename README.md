@@ -20,11 +20,6 @@ users ratings.
 Notebook 4: A demo notebook meant to be used for demonstrating the functionality of the
 system and tweaking parameters without fear of damaging parts of the original system. 
 
-Final Report: A short summary of the project.
-
-Demo Video: A short video demo-ing the use of the functions in Notebook 4. Useful if you
-do not have the proper application to use .ipynb files.
-
 
 DATASETS
 ==========================================================================================
