@@ -1,15 +1,9 @@
-# moviematch
+# MovieMatch
 Using datasets from MovieLens and IMDB with machine learning models (SVD &amp; KNNBaseline) to create a recommender system that recommends for two users.
 
 
-SUMMARY
-==========================================================================================
 
-These files include the notebooks used for the creation of a recommender system
-based on MovieLens and IMDB data as well as the datasets used.
-
-
-FILE DESCRIPTION
+File Description
 ==========================================================================================
 
 Notebook 1: Includes the exploratory data analysis process and pre-processing steps
